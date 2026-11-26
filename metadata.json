@@ -1,0 +1,6 @@
+{
+  "name": "DamageAugment AI",
+  "description": "Automotive vehicle damage photo augmentation pipeline featuring spatial conditioning, domain and lighting shifts, mask-guided damage synthesis, VLM quality filtering, and dataset balance evaluation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
